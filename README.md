@@ -1,0 +1,14 @@
+# onyx-user 9 PS7331.4463N 0031575863040 amz-p,release-keys
+- manufacturer: amazon
+- platform: mt8168
+- codename: onyx
+- flavor: onyx-user
+- release: 9
+- id: PS7331.4463N
+- incremental: 0031575863172
+- tags: amz-p,release-keys
+- fingerprint: Amazon/onyx/onyx:9/PS7331.4463N/0031575863040:user/amz-p,release-keys
+- is_ab: false
+- brand: Amazon
+- branch: onyx-user-9-PS7331.4463N-0031575863040-amz-p,release-keys
+- repo: amazon_onyx_dump
